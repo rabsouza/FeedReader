@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <!-- ################# APP ################ -->
+    <color name="colorPrimary">#BA2126</color>
+    <color name="colorPrimaryDark">#80171a</color>
+    <color name="colorAccent">#ff6096</color>
+    <color name="colorControlHighlight">#B3E5FC</color>
+    <color name="colorBG">#FFFFFF</color>
+
+    <!-- ################# Element ################ -->
+    <color name="colorTitleToolbar">#E6FFFFFF</color>
+    <color name="colorTitle">#E6BA2126</color>
+    <color name="colorTextBold">#F2353434</color>
+    <color name="colorText">#D9353434</color>
+    <color name="colorIcon">#B3353434</color>
+    <color name="colorCardTitle">#E6BA2126</color>
+    <color name="colorLine">#B3353434</color>
+    <color name="colorCard">#B3CFCFCF</color>
+    <color name="colorButton">#B3CFCFCF</color>
+    <color name="colorActive">#80ff6096</color>
+    <color name="colorImgFeedbackDissatisfied">@color/red</color>
+    <color name="colorImgFeedbackNeutral">@color/colorIcon</color>
+    <color name="colorImgFeedbackSatisfied">@color/green</color>
+
+    <!-- ################# BASIC ################ -->
+    <color name="transparent">#0000</color>
+    <color name="white">#D9FFFFFF</color>
+    <color name="black">#D9000000</color>
+    <color name="yellow">#D9FFEB3B</color>
+    <color name="gray">#D99E9E9E</color>
+    <color name="orange">#D9FF9800</color>
+    <color name="red">#D9F44336</color>
+    <color name="pink">#D9E91E63</color>
+    <color name="blue">#D92196F3</color>
+    <color name="purple">#D99C27B0</color>
+    <color name="green">#D94CAF50</color>
+    <color name="indigo">#D93F51B5</color>
+    <color name="cyan">#D900BCD4</color>
+    <color name="lime">#D9CDDC39</color>
+    <color name="brown">#D9795548</color>
 </resources>
